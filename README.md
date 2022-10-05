@@ -4,7 +4,9 @@ Python 3.9.7 | Dependencies: socket, argparse
 Command Line Instructions:
 ---
 Start the server application. Ex: python3 server.py -t TCP -p 8000
+
 Make a GET request with browser to localloopback:port/resource.html
+
 Defaults: IP = 127.0.0.1 Type = TCP Port = < user choice >
 
 Design Explanation
